@@ -46,7 +46,7 @@
     "fs-jetpack": "2.2.2",
     "gluegun": "^4.1.0",
     "lodash": ">=4.17.15",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "mixin-deep": ">=2.0.1",
     "pretty-error": "2.1.1",
     "ramda": "0.26.1",
